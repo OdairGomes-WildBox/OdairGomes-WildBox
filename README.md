@@ -27,7 +27,7 @@
    <p></p>
    <p></p>
 
-<h6>Organização: </h6>
+<h6>Organizacional: </h6>
 
 <a href="https://trello.com/b/VZvKLDVt/api-pontos-organizacional" >Trello</a>
 
