@@ -17,7 +17,7 @@
   
 <hr>
   
-<h2>Documentação: </h2>
+<h2>Documentação da API: </h2>
 
   <h4>Get Request's: </h4>
    <p></p>
