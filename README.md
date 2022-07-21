@@ -12,7 +12,7 @@
 <h2>Fluxograma: </h2>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/85533288/180004653-ad2b83d7-32ef-4463-9c3f-105fddef693e.png" width="500px"/>
+<img src="https://user-images.githubusercontent.com/85533288/180102552-b15ea13f-289e-43ad-a4c6-57166ee05e1e.png" width="500px"/>
 </div>
   
 <hr>
