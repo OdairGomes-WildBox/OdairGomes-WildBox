@@ -5,30 +5,22 @@
 
 ### Descrição: 
 
-<p> Projeto de contabilização e visualização de pontos por compra criado para o e-commerce VTEX da dona Maria.</p>
-<p> Temos como foco nesse projeto retornar os pedidos do usuário diretamente da nossa api conectada á VTEX, para assim criar um histórico de transações entre o cliente e a loja que também seja capaz de retornar o total de pontos bônus em um bloco customizável.</p>
+Projeto de contabilização e visualização de pontos por compra criado para o e-commerce VTEX da dona Maria.
+Temos como foco nesse projeto retornar os pedidos do usuário diretamente da nossa api conectada á VTEX, para assim criar um histórico de transações entre o cliente e a loja que também seja capaz de retornar o total de pontos bônus em um bloco customizável.
 
 <hr>
 
 ### Conteúdo
 
-* [Fluxograma](#Fluxograma:)
-    
-* [Technologias utilizadas](#Technologias utilizadas:)
-    
-* [Pré-requisitos](#Pré-requisitos:)
-
-* [Documentação da API](#Documentação da API:)
-
-    * [Get Request's](#Get Request's:)
-    
-    * [Post Request's](#Post Request's:)
-    
-    * [Patch Request's](#Patch Request's:)
-
-* [Organizacional](#Organizacional:)
-
-* [Dificudades no desenvolvimento](#Dificudades no desenvolvimento:)
+* [Fluxograma](#Fluxograma-)
+* [Technologias utilizadas](#Technologias-utilizadas)
+* [Pré-requisitos](#Pré-requisitos)
+* [Documentação da API](#DocumentaçãodaAPI)
+    * [Get Request's](#GetRequest's)
+    * [Post Request's](#PostRequest's)
+    * [Patch Request's](#PatchRequest's)
+* [Organizacional](#Organizacional)
+* [Problemas e Soluções](#ProblemaseSoluções)
 
 ### Fluxograma:
 
@@ -38,38 +30,38 @@
   
 <hr>
   
-### <h2>Tecnologias utilizadas: </h2>
+### Tecnologias utilizadas:
 
 <p></p>
 
 <hr>
 
-### <h2>Pré-requisitos: </h2>
+### Pré-requisitos:
 
 <p></p>
 
 <hr>
 
-### <h2>Documentação da API: </h2>
+### Documentação da API:
 
-  #### Get Request's: 
+#### Get Request's: 
    <p></p>
    <p></p>
    <p></p>
    
-  #### Post Request's:
+#### Post Request's:
    <p></p>
    <p></p>
    <p></p>
    
-  #### Patch Request's:
+#### Patch Request's:
    <p></p>
    <p></p>
    <p></p>
 
 <hr>
 
-### <h2>Organizacional: </h2>
+### Organizacional:
 
 <a href="https://trello.com/b/VZvKLDVt/api-pontos-organizacional" >Trello</a>
 
@@ -80,7 +72,7 @@
 <img src="https://pbs.twimg.com/media/DyLSj2WXcAARVtw.png" width=100px align="right"/>
 </div>
 
-### <h2>Dificudades no desenvolvimento: </h2>
+### Problemas e Soluções:
 
 <a href="https://trello.com/b/VZvKLDVt/api-pontos-organizacional" >Trello</a>
 
